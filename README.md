@@ -1,5 +1,5 @@
 # my-vue-multiselect2
-[vue-multiselect2](https://vue-multiselect.js.org/)의 기능중 multiple select부분을 체험해볼 수 있는 sample페이지 입니다. 
+[vue-multiselect](https://vue-multiselect.js.org/)의 기능중 multiple select부분을 체험해볼 수 있는 sample페이지 입니다. 
 
 ## 실행하는 방법
 ```
