@@ -17,6 +17,7 @@
       track-by="apiId"
       :preselect-first="true"
     >
+      <template slot="tag">{{ '' }}</template>
       <template slot="selection" slot-scope="{ values, search, isOpen }">
         <span class="multiselect__single" v-if="values.length && !isOpen">
           API 리소스 선택 ({{ values.length }})
